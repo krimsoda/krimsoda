@@ -3,7 +3,7 @@
 <hr>
 
 🌱 I’m currently learning ...
--  <b>Linux</b>
+-  [<b>Linux</b>](https://github.com/krimsoda/Linux.git)
 -  <b>Ansible</b>
 -  <b>Splunk</b>
 -  <b>Security</b>
