@@ -3,10 +3,10 @@
 <hr>
 
 🌱 I’m currently learning ...
--  Linux
--  Ansible
--  Splunk
--  Security
+-  <b>Linux</b>
+-  <b>Ansible</b>
+-  <b>Splunk</b>
+-  <b>Security</b>
 <center>
 <hr>
 <!--
