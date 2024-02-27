@@ -1,5 +1,7 @@
-### Hi there 👋 👯
+### Hi.. 👋 👯
+
 <hr>
+
 🌱 I’m currently learning ...
 -  Linux
 -  Ansible
