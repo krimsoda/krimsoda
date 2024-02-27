@@ -4,8 +4,8 @@
 
 🌱 I’m currently learning ...
 -  [<b>Linux</b>](https://github.com/krimsoda/Linux.git)
--  <b>Ansible</b>
--  <b>Splunk</b>
+-  [<b>Ansible</b>](https://github.com/krimsoda/ansible)
+-  [<b>Splunk</b>](https://github.com/krimsoda/splunk)
 -  <b>Security</b>
 <center>
 <hr>
