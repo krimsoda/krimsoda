@@ -1,10 +1,10 @@
 ### Hi there 👋 👯
 
 🌱 I’m currently learning ...
--Linux
--Ansible
--Splunk
--Security
+-  Linux
+-  Ansible
+-  Splunk
+-  Security
 <!--
 **krimsoda/krimsoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
