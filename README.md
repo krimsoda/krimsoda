@@ -8,7 +8,7 @@
 -  [<b>Ansible</b>](https://github.com/krimsoda/ansible)
 -  [<b>Splunk</b>](https://github.com/krimsoda/splunk)
 -  <b>Security</b>
--  <b>Cloud</b>
+-  [<b>Cloud</b>](https://github.com/krimsoda/Cloud.git)
 -  [<b>Windows</b>](https://github.com/krimsoda/Windows.git)
 <center>
 <hr>
