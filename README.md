@@ -7,7 +7,6 @@
 -  [<b>Cloud</b>](https://github.com/krimsoda/Cloud.git)
 -  [<b>Containerization</b>](https://github.com/krimsoda/Containerization.git)
 -  [<b>Security</b>](https://github.com/krimsoda/Security)
--  [<b>Windows</b>](https://github.com/krimsoda/Windows.git)
 -  [<b>Networking</b>](https://github.com/krimsoda/Networking.git)
 -  [<b>Ansible</b>](https://github.com/krimsoda/ansible)
 -  [<b>Splunk</b>](https://github.com/krimsoda/splunk)
