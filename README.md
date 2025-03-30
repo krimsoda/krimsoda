@@ -10,6 +10,7 @@
 -  [<b>Networking</b>](https://github.com/krimsoda/Networking.git)
 -  [<b>Ansible</b>](https://github.com/krimsoda/ansible)
 -  [<b>Splunk</b>](https://github.com/krimsoda/splunk)
+-  [<b>Misc</b>](https://github.com/krimsoda/misc)
 
 
 
